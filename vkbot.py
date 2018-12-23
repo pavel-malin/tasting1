@@ -1,0 +1,4 @@
+import vkbot
+
+
+token = "34e913bc6bf2eb8b97382dbededfe5f683bf604adf063296b8930bb9edd02a1743796d132c4ec3beaab92"
